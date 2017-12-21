@@ -23,12 +23,12 @@ black area corresponds to chaos, white - to divergence of iterations.
 
 ## Repository Includes
 
-+ `henon.c`  - C file 
-+ `henon.py` - Python file 
-+ `henon_omp.c`   - C file using OpenMP
-+ `henon_pool.py` - Python file using Multiprocessing
-+ `plotter.py` - Python file made by [I.V. Sysoev](https://www.sgu.ru/en/node/5284). It needs for draw plot using special generated data file
-+ `test_sin_omp.c` - C file using OpenMP for configuration test data
++ `henon.c`  - C file. It calculates data file. 
++ `henon.py` - Python file. It calculates data file.
++ `henon_omp.c`   - C file. It calculates using OpenMP.
++ `henon_pool.py` - Python file. It calculates using Multiprocessing.
++ `plotter.py` - Python file made by [I.V. Sysoev](https://www.sgu.ru/en/node/5284). It needs for draw plot using special generated data file.
++ `test_sin_omp.c` - C file. It calculates using OpenMP for configuration test data.
 
 ## Learn more
 
